@@ -1,0 +1,6 @@
+desktop.ini
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+~$*.docx
+~$*.pptx
